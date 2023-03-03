@@ -1,4 +1,4 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eogus65121&show_icons=true&theme=transparent)
 
 <!--
 **eogus65121/eogus65121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
